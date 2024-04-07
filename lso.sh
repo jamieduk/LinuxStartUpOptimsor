@@ -1,5 +1,10 @@
 #!/bin/bash
-
+# Linux StartUp optimisor (c) J~Net 2024
+# https://github.com/jamieduk/LinuxStartUpOptimsor
+#
+# sudo ./lso.sh
+#
+#
 # Function to analyze boot logs
 analyze_boot_logs() {
     echo "Analyzing boot logs..."
