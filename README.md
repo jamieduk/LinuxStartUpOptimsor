@@ -10,15 +10,15 @@ Check disk usage: Identify potential storage issues that could affect boot time.
 Clear boot logs: Free up disk space and start fresh for troubleshooting.
 Usage
 Download the script:
-Bash
+
 git clone https://github.com/jamieduk/LinuxStartUpOptimsor.git
 Use code with caution.
 Navigate to the script directory:
-Bash
+
 cd LinuxStartUpOptimsor
 Use code with caution.
 Run the script with root privileges:
-Bash
+
 sudo ./lso.sh
 Use code with caution.
 Disclaimer
